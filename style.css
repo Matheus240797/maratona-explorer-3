@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #fbdbe6;
+    background-color: #FFEDD5;
     font-family: 'Robot' sans-serif;
 }
 
@@ -30,12 +30,10 @@ header h1 {
     margin-bottom: 4px;
     font-size: 28px;
     line-height: 21px;
-    color: #D4216C;
 }
 
 header h1 span {
-   color: #cd6582;
-    
+    color: #995000;
 }
 
 header p {
@@ -48,6 +46,7 @@ header,
 section {
     max-width: 300px;
     margin: 0 auto;
+
 }
 
 section {
@@ -55,7 +54,7 @@ section {
 }
 
 section h2 {
-    background-color: #f48eb8; 
+    background-color: #fed7aa;
     padding: 8px 16px;
     text-align: center;
     margin-bottom: 24px;
@@ -80,28 +79,4 @@ li .details {
     color: rgba(0, 0, 0, 0.6);
     font-size: 14px;
     line-height: 21px;
-}
-
-.products {
-    color: #D4216C;
-}
-
-.dedicated h3 {
-    font-family: 'Robot' sans-serif;
-    font-size: 9px;
-    text-align: center;
-    text-transform: none;
-    margin: 12px;
-}
-
-.dedicated p {
-    font-family: 'Roboto Serif', serif;
-    text-align: center;
-    font-size: 10px;
-    line-height: 2px;
-}
-
-img {
-    margin: 8px;
-    position: relative;
 }
